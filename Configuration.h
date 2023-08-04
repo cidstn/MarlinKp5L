@@ -1531,7 +1531,7 @@
 // @section extruder
 
 // For direct drive extruder v9 set to true, for geared extruder set to false.
-#define INVERT_E0_DIR true
+#define INVERT_E0_DIR false // Cid
 #define INVERT_E1_DIR false
 
 // @section homing
