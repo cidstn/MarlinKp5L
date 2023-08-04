@@ -9,8 +9,8 @@ Input shaping
 NO BLTouch
 Mesh Bed Leveling
 
-*Thanks for Vitor Vicente for helping me to figure out some issues with SDCARD.*
-Gracias a Vitor Vicente por ayudarme con los problemas con SDCARD.
+*Thanks for Victor Vicente for helping me to figure out some issues with SDCARD.*
+Gracias a Victor Vicente por ayudarme con los problemas con SDCARD.
 
 This post I`ve used to acomplish de mission, from user https://github.com/dmgualb.
 https://github.com/dmgualb/KP5L/tree/main
