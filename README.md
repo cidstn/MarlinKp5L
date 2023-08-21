@@ -5,9 +5,13 @@ Esta es mi compilación de firmware para la impresora 3d Kingroon KP5L con Marli
 
 Active on:
 Linear Advance
+
 Input shaping
+
 NO BLTouch
+
 Mesh Bed Leveling
+
 
 *Thanks for Victor Vicente for helping me to figure out some issues with SDCARD.*
 Gracias a Victor Vicente por ayudarme con los problemas con SDCARD.
